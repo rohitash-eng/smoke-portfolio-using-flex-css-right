@@ -7,7 +7,7 @@ This project showcases a **more advanced responsive portfolio website** using Fl
 ## 🌐 Live Preview
 
 <p align="center">
-  <img src="https://github.com/rohitash-eng/professional-portfolio-website-using-flex/blob/main/images/professional-portfolio-website-using-flex.png?raw=true" alt="Portfolio Preview" width="700"/>
+  <img src="https://github.com/rohitash-eng/smoke-portfolio-using-flex-css-right/blob/main/images/website.png?raw=true" alt="Portfolio Preview" width="700"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ This tutorial dives deeper into real-world Flexbox layout techniques.
 
 ## 🔗 Live Demo
 
-➡️ [View Live Demo](https://rohitash-eng.github.io/professional-portfolio-website-using-flex/)
+➡️ [View Live Demo](https://github.com/rohitash-eng/smoke-portfolio-using-flex-css-right/blob/main/images/website.png)
 
 ---
 
